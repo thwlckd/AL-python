@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
 
 ### 환경
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white">
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white">
 
 ### 주요 이론
 - 경사하강알고리즘(Batch-GDA, Stochastic-GDA, Mini-Batch-GDA)
